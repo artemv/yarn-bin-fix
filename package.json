@@ -1,20 +1,23 @@
 {
-  "name": "yarn-bin-fix",
-  "version": "0.1.15",
+  "name": "@artemv/yarn-bin-fix",
+  "version": "0.1.19",
   "description": "Workaround for npm-link re binaries of packages' subdependencies",
   "license": "MIT",
   "author": "Daniel Zlotin <zlotindaniel@gmail.com>",
+  "contributors": [
+    "Artem Vasiliev <artem.job@gmail.com>"
+  ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wix/yarn-bin-fix.git"
+    "url": "https://github.com/artemv/yarn-bin-fix.git"
   },
   "bugs": {
-    "url": "https://github.com/wix/yarn-bin-fix/issues"
+    "url": "https://github.com/artemv/yarn-bin-fix/issues"
   },
-  "homepage": "https://github.com/wix/yarn-bin-fix",
+  "homepage": "https://github.com/artemv/yarn-bin-fix",
   "main": "index.js",
   "bin": {
     "yarn-bin-fix": "./bin/yarn-bin-fix"
