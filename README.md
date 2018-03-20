@@ -13,7 +13,7 @@ For example, you depend on `standard` which depend on `eslint`. When using `npm 
 ## Installation
 Install it globally (for ease of access, not necessary).
 
-`npm i -g yarn-bin-fix`
+`npm i -g @artemv/yarn-bin-fix`
 
 ## Usage
 After linking your module using `npm link my-package` or `yarn link my-package`, run `yarn-bin-fix` from your 
