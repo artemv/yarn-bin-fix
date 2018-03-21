@@ -1,6 +1,6 @@
 {
   "name": "@artemv/yarn-bin-fix",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "description": "Workaround for npm-link re binaries of packages' subdependencies",
   "license": "MIT",
   "author": "Daniel Zlotin <zlotindaniel@gmail.com>",
